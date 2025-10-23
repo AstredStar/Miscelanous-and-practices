@@ -1,0 +1,1 @@
+These are my first projects in python. They were given to me as excercises in winter of 2021. They are posted here because the site they were originally uploaded to is shutting down in december of 2025.
