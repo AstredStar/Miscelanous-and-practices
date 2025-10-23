@@ -1,0 +1,16 @@
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\bin\Debug\net5.0\BoardGames.exe
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\bin\Debug\net5.0\BoardGames.deps.json
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\bin\Debug\net5.0\BoardGames.runtimeconfig.json
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\bin\Debug\net5.0\BoardGames.runtimeconfig.dev.json
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\bin\Debug\net5.0\BoardGames.dll
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\bin\Debug\net5.0\ref\BoardGames.dll
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\bin\Debug\net5.0\BoardGames.pdb
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\obj\Debug\net5.0\BoardGames.csproj.AssemblyReference.cache
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\obj\Debug\net5.0\BoardGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\obj\Debug\net5.0\BoardGames.AssemblyInfoInputs.cache
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\obj\Debug\net5.0\BoardGames.AssemblyInfo.cs
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\obj\Debug\net5.0\BoardGames.csproj.CoreCompileInputs.cache
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\obj\Debug\net5.0\BoardGames.dll
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\obj\Debug\net5.0\ref\BoardGames.dll
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\obj\Debug\net5.0\BoardGames.pdb
+C:\Users\jjavi\OneDrive\Desktop\Programming\c#\BoardGames\BoardGames\obj\Debug\net5.0\BoardGames.genruntimeconfig.cache
